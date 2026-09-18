@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à l’adaptation des jetons conditionnels aux marchés à risque négatif de Polymarket est disponible dans [docs/fr/](docs/fr/).
+
 # Polymarket Multi-Outcome Markets
 
 The contracts in this repository are designed to unify mutually exclusive binary markets into a single multi-outcome market structure. By mutually exclusive binary markets, we mean a set of binary YES/NO markets of which one and only one will resolve true. The canonical example is a set of markets each representing a candidate in a particular political election, where only one can win. Each component binary market is a YES/NO market for a particular candidate. The fact that only one candidate can win guarantees that there are certain equivalencies amongst certain sets of positions.
